@@ -20,8 +20,8 @@ Tenho sólida experiência no ecossistema Front-end fundamental e estou expandin
 
 ### 📊 Estatísticas do GitHub
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EniDev-exe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EniDev-exe&layout=compact&langs_count=7&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EniDev-exe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EniDev-exe&layout=compact&langs_count=7&theme=tokyonight" />
 </p>
 
 ---
@@ -30,7 +30,7 @@ Tenho sólida experiência no ecossistema Front-end fundamental e estou expandin
 Gostou do meu perfil? Sinta-se à vontade para entrar em contato ou acompanhar meus projetos!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enivaldo-oliveira-4058b31ba/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](instagram.com/olvr.eni)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/olvr.eni)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatoenioficial@gmail.com)
 
 ---
