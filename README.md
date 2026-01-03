@@ -1,8 +1,6 @@
 # Olá, eu sou o Enivaldo Oliveira! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/assets/hi.gif" width="30px">
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=A%20persistência%20é%20o%20caminho%20do%20êxito." alt="Frase do dia" />
-</p>
+<strong>A persistência é o caminho do êxito</strong>
 
 ### 👨‍💻 Sobre Mim
 - 📍 **Localização:** Salvador - Bahia 🌴
