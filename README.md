@@ -20,17 +20,6 @@
 
 ---
 
-### 📈 Meu Progresso no GitHub
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EniDev-exe&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EniDev-exe&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
-</div>
-
----
-
 ### 🤝 Vamos conversar?
 <p align="left">
 <a href="https://www.linkedin.com/in/enivaldo-oliveira-4058b31ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
